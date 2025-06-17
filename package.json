@@ -1,0 +1,31 @@
+{
+  "name": "reservation-system-server",
+  "version": "1.0.0",
+  "description": "Node.js reservation system with Auth0 authentication",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheruiyot-dev/reservation-system-server.git"
+  },
+  "keywords": [
+    "reservation",
+    "oauth0",
+    "nodejs",
+    "express"
+  ],
+  "author": "Cheruiyot-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheruiyot-dev/reservation-system-server/issues"
+  },
+  "homepage": "https://github.com/Cheruiyot-dev/reservation-system-server#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
